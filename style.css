@@ -1,0 +1,95 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+ .headdiv{
+	 margin:0 auto;
+	 border:1px solid black;
+	 width:60%;
+	 padding:20px;
+ }
+a{
+	 display: inline-block;
+     width: 100px;
+     text-decoration: none;
+     padding: 20px;
+	 text-align:center;
+	  margin:50px;
+}
+#btn1{
+	 border: 1px solid black;
+     background-color: aquamarine;
+}
+#btn1:hover{
+	 background-color:yellow;
+	 border-radius:10px;
+	 font-weight:bold;
+	 color:white;
+}
+#btn2{
+     border: 2px dashed;
+     background-color: fuchsia;
+     border-radius: 2px 51px 0px 0px;
+}
+#btn3{
+	 border: 4px dotted black;
+     background-color: orange;
+}
+#btn3:hover{
+	 border-radius:50%;
+	 color:red;
+}
+#btn4{
+     border: 3px double darkslategray;
+     background-color: chartreuse;
+     border-radius: 63px 63px 0px 0px;
+}
+#btn5{
+	 border: 3px double darkslategray;
+     background-color: chartreuse;
+     border-radius: 0px 0px 63px 63px;
+}
+#btn6{
+	 border:10px groove black;
+	 background-color: gold;
+
+}
+#btn7{
+	 border: 3px ridge orangered;
+     background-color: blanchedalmond;
+     border-radius: 0px 62px 0px 62px;
+}
+#btn8{
+	 border: 1px solid black;
+     background-color: seashell;
+     border-radius: 50%;
+    
+     padding: 24px 0px 24px 0px;
+}
+#btn9{
+	 border: 10px inset;
+    font-size: 24px;
+    box-shadow: 10px 0px 30px 10px;
+}
+#btn10{
+	  border: 2px solid black;
+    background-color: yellow;
+    border-radius: 1px 0px 39px 39px;
+
+
+}
+#btn11{
+	    border: 1px solid black;
+
+
+	
+}
+#btn11:hover{
+	background-color:red;
+	border:5px dashed black;
+}
+#btn12{
+	border: 16px dotted;
+    background-color: gainsboro;
+}
